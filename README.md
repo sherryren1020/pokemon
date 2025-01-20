@@ -28,14 +28,14 @@ Make sure you have the following installed on your machine:
    git clone https://github.com/yourusername/pokemon-card-gallery.git
 
 2. Navigate to the project directory:
-
+    ```bash
     cd pokemonts
 
 3. Install the dependencies:
-
+   ```bash
     npm install     
 
 4. Running the Project
 To start the development server, run:
-
+    ```bash
     npm run dev
